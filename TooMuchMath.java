@@ -4,7 +4,7 @@
  * A custom math utility library that provides extended mathematical
  * functions and constants — for when you just need *too much math*.
  *
- * Author: Nathan Ng
+ * Author: Nathan Ng/Julian Chan
  * Created: October 2025
  */
 
@@ -121,4 +121,5 @@ public class TooMuchMath {
         function f1 = new function("x^2 +10x -20");
         System.out.println(f1);
     }
+
 }
